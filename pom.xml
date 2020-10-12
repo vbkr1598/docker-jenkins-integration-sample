@@ -8,7 +8,7 @@
     <artifactId>cicd_jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>cicd_jenkins</finalName>
 </build>
 
 </project>
